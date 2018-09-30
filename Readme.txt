@@ -23,3 +23,5 @@ Student can take quizes
 Student can view quizes scores
 Student can view all sections details
 Student can view roster
+
+Q3 assumptions:
