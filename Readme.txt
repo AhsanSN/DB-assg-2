@@ -6,6 +6,8 @@ The two flights shown in the ticket is actually a connecting flight from A to B 
 
 Q2 assumptions:
 
+movie may have director
+position can identify a manager
 
 Q3 Description:
 
