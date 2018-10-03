@@ -1,5 +1,8 @@
 Q1 assumptions:
 
+The only thing that is used to calculate the total cost of flight is the category in which the person is travelling.
+Constant tax is deducted.
+The two flights shown in the ticket is actually a connecting flight from A to B and B to C with different seat number and categories
 
 Q2 assumptions:
 
