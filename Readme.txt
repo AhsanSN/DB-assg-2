@@ -8,6 +8,9 @@ Q2 assumptions:
 
 movie may have director
 position can identify a manager
+dvd can be of only 1 category
+the constraint of 10 dvds at a time is immplemented by getting the list of all rents without returned date
+
 
 Q3 Description:
 
@@ -30,3 +33,6 @@ Student can view all sections details
 Student can view roster
 
 Q3 assumptions:
+
+quizes have one correct answer and thus the solution provided by students are not stored but compared to the solution of the qs and points are added to the db base on that.
+
